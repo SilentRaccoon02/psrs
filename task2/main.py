@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import time
 
 
 def save_and_show(name, image):
